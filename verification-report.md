@@ -107,6 +107,10 @@ CoreMark evaluates embedded processor performance using several workloads, inclu
 
 The normalized CoreMark/MHz result can support comparisons between implementations when benchmark versions, compiler configurations, processor settings, and measurement methods are comparable.
 
+
+<img width="812" height="375" alt="mistcoremark2" src="https://github.com/user-attachments/assets/7d38ace0-3319-4d53-b7ff-a4f08e5c39ec" />
+
+
 ### 4.2 Dhrystone
 
 **Benchmark:** Dhrystone  
@@ -124,6 +128,8 @@ The normalized CoreMark/MHz result can support comparisons between implementatio
 | DMIPS/MHz | 0.389 |
 | Simulation cycles (`sim_cycles`) | 146,245,593 |
 | Benchmark status | PASS |
+
+<img width="580" height="275" alt="mist dhry 2" src="https://github.com/user-attachments/assets/a8533de8-d8c5-449c-8eff-0c678c529377" />
 
 **Measured performance: 684 Dhrystones/s/MHz and 0.389 DMIPS/MHz.**
 
