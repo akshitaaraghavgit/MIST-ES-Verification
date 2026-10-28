@@ -65,6 +65,9 @@ The runner uses simulation output checks to identify PASS, FAIL, or TIMEOUT cond
 
 **Result documentation:** The benchmark was run during the testing session. Exact numerical metrics and the final run status are not reproduced in this report because the corresponding complete output was not captured here.
 
+<img width="1331" height="324" alt="SIPPdhrystone final" src="https://github.com/user-attachments/assets/7009d597-a836-48d8-94ca-1856a3fee65d" />
+
+
 ### 5.2 CoreMark
 
 The CoreMark benchmark build and simulation workflow was also used.
@@ -81,6 +84,9 @@ The run script was configured for 100 iterations with a simulation cycle limit o
 The runner checks simulation output for PASS, FAIL, and TIMEOUT conditions.
 
 **Result documentation:** Benchmark metrics were collected during the testing session, but the exact numerical output and final status are not reproduced here. No specific CoreMark score or performance-per-MHz value is claimed in this report.
+
+<img width="1331" height="583" alt="SIPPcoremarkfinal" src="https://github.com/user-attachments/assets/de2ef26b-8c83-4685-9491-7526e07e8c4d" />
+
 
 ### 5.3 Benchmark Interpretation
 
